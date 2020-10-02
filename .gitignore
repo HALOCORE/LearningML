@@ -1,6 +1,9 @@
 # WANG BO
 .vscode
 data/
+.data/
+.models/
+runs
 .ipynb_checkpoints/
 
 
